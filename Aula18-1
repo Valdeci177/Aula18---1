@@ -1,0 +1,12 @@
+carrinho-de-compras/
+│
+├── backend/
+│   ├── models/
+│   │   ├── User.js
+│   │   └── Product.js
+│   ├── routes/
+│   │   ├── auth.js
+│   │   └── products.js
+│   ├── .env
+│   ├── server.js
+└── frontend/
